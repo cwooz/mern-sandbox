@@ -3,7 +3,7 @@ export default {
   messages: {
     siteTitle: 'CBC Portal App',
     addPost: 'Add Post',
-    switchLanguage: 'Switch Language',
+    switchLanguage: 'Sign In',
     twitterMessage: 'We are on Twitter',
     by: 'By',
     deletePost: 'Delete Post',
